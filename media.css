@@ -1,0 +1,81 @@
+@media screen and (max-width: 600px) {
+  .dropdown-menu .nested-menu {
+    left: 50%;
+  }
+  .about-section .container {
+    padding: 15px !important;
+    width: 95% !important;
+  }
+  .about-section .container .left-side,
+  .about-section .container .right-side {
+    /* background-color: yellow; */
+    width: 100%;
+    margin-top: 10px;
+  }
+  .about-section .container .left-side .top {
+    display: block;
+  }
+  .about-section .container .left-side .top ul {
+    padding: 0;
+    margin-top: 10px;
+    width: 100%;
+  }
+  .services-section .container {
+    width: 95%;
+  }
+  .services-section .container .item {
+    width: 100%;
+    padding: 10px 0px;
+  }
+  .cv .container {
+    width: 95%;
+  }
+  .cv .container .item {
+    padding: 15px;
+    width: 100% !important;
+  }
+  .cv .container .item i {
+    border: 7px solid rgba(255, 255, 255, 0.768);
+  }
+  .portfolio {
+    padding: 40px 0px !important;
+  }
+  .portfolio .container {
+    width: 95% !important;
+    padding: 0;
+  }
+  .portfolio .container .section-content .item {
+    padding: 20px 0px;
+    width: 100% !important;
+  }
+  .blog {
+    padding: 48px 0px !important;
+  }
+  .blog .container {
+    width: 95%;
+    padding: 0 !important;
+  }
+  .blog .container .section-content .card {
+    width: 100%;
+    margin: 15px 0px;
+  }
+  .contact .container {
+    padding: 0;
+    width: 95%;
+  }
+  .contact .container .section-content {
+    padding: 25px;
+  }
+  .contact .container .section-content .left-side,
+  .contact .container .section-content .right-side {
+    width: 100%;
+    padding: 0;
+  }
+  .caption {
+    text-align: center;
+  }
+  .marta .container p
+  {
+    width: 100% !important;
+  }
+}
